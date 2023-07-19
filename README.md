@@ -22,7 +22,6 @@ This project is a Restful Web Service application created using Spring Boot, all
 1. Make sure you have Java 11 installed on your system.
 2. Clone this repository to your local machine.
 3. Open the project in your favorite IDE (e.g., Eclipse, IntelliJ, etc.).
-4. Configure the connection settings for the H2 database in the `application.properties` file.
 
 ## Running the Application
 
